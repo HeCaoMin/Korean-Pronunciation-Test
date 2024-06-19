@@ -55,6 +55,6 @@ https://docs.google.com/document/d/1QNoS7zU03u55hK5G0X0ReJQseJ4lFcKtRxSsyTSsEbM/
 
 - Due to limited team members and time, and some problems we encountered during development, we did not complete the expected development of the WEB UI. In the original idea, we hoped that after the user reads the wrong pronunciation once, the correct pronunciation of the mouth shape and text description will be displayed in the software interface to help users learn and master the correct pronunciation better and faster. For this purpose, we also downloaded the standard reading mouth shape video of the words in our prepared word library from the Korean 국립국어원. Our team may develop the WEB UI in the future when we have time. You are also welcome to continue the development based on our work and upload it to our code repository. I put these videos on our network disk and named them clearly. You can download them through the link below.
 
-  Videos.zip
+  Videos.zip[[download]](https://drive.google.com/file/d/1BMGxH7HEyG-8NwprXr2JJzqXE8uM9HBb/view?usp=sharing)
 
 - In fact, we noticed the Korean AI hub website, which provides many high-quality Korean data sets, but downloading these files requires real-name authentication and is only available to Korean citizens. We were concerned about legal risks and chose not to try these data sets.Perhaps Korean citizens can download those datasets and train a more accurate model using the training method in our technical documentation to improve our software.
